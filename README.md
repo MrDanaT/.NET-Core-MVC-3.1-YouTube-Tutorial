@@ -46,3 +46,5 @@ In an IDE like VSCode you can run this project by entering the following command
 ## Credits
 
 All credits go to the maker of this tutorial as I am just a student replicating his code / following his course to expand my skills.
+
+[Les Jacksons's GitHub](https://github.com/binarythistle)
