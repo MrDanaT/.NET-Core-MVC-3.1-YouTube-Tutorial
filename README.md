@@ -47,4 +47,4 @@ In an IDE like VSCode you can run this project by entering the following command
 
 All credits go to the maker of this tutorial as I am just a student replicating his code / following his course to expand my skills.
 
-[Les Jacksons's GitHub](https://github.com/binarythistle)
+[Les Jacksons's GitHub](https://github.com/binarythistle) and [YouTube channel](https://www.youtube.com/c/binarythistle)
