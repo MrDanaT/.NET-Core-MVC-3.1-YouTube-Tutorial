@@ -31,7 +31,7 @@ You need the following assets:
   * Recommended: Visual Studio 2019 (latest version)
   * Optional: Visual Studio Code with the [following extensions](https://marketplace.visualstudio.com/items?itemName=doggy8088.netcore-extension-pack)
 
-* The `CommanderDB` which can be created by entering the following command inside the terminal of this project:
+* The `CommanderDB` database which can be created by entering the following command inside the terminal of this project:
   * `dotnet ef database update`
   * This command will automatically create the database for you due to an already existing migration. If you change or add models/properties, these changes should be applied with the following command: `dotnet ef migrations add [ShortDescriptionOfTheChanges]`, followed with the command above.
 
